@@ -1,0 +1,13 @@
+public class Exercicio_02 {
+
+    public static void main(String[] args) {
+        
+        double base = 5;
+        double altura = 7;
+        double area = base * altura / 2;
+        
+        System.out.println(" a área de um triangulo com " + base + " de base e " + altura + " de altura é"  );
+        System.out.println(base + "*" + altura + "/" + 2 + "=" + area );
+       
+    }
+}
